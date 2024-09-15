@@ -13,9 +13,9 @@ Our mission is to bring together a group of motivated and skilled individuals wh
 3. Create Real-World Opportunities: As we grow, we plan to offer penetration testing services to companies, turning our expertise into practical business solutions.
 
 🔧 What We Do
-CTF Competitions: Regularly participate in and organize Capture the Flag challenges.
-Knowledge Sharing: Learn together by solving boxes on platforms like TryHackMe, HackTheBox, and more.
-Community Events: We host events to deepen our cybersecurity skills, from focused study sessions to informal hacking hangouts.
+- CTF Competitions: Regularly participate in and organize Capture the Flag challenges.
+- Knowledge Sharing: Learn together by solving boxes on platforms like TryHackMe, HackTheBox, and more.
+- Community Events: We host events to deepen our cybersecurity skills, from focused study sessions to informal hacking hangouts.
 
 📢 Expectations
 We are only looking for engaged, active members who are truly passionate about cybersecurity. Here’s what we expect from everyone:
