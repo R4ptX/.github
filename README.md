@@ -1,4 +1,4 @@
-Welcome to the InfoOps! This is a dedicated space for cybersecurity professionals, enthusiasts, and learners to collaborate, improve their skills, and compete in Capture the Flag (CTF) competitions. We focus on utilizing platforms like TryHackMe, HackTheBox, and others to challenge ourselves and grow as a team.
+Welcome to the RaptX! This is a dedicated space for cybersecurity professionals, enthusiasts, and learners to collaborate, improve their skills, and compete in Capture the Flag (CTF) competitions. We focus on utilizing platforms like TryHackMe, HackTheBox, and others to challenge ourselves and grow as a team.
 
 📜 Our Mission
 Our mission is to bring together a group of motivated and skilled individuals who are passionate about cybersecurity. We aim to:
