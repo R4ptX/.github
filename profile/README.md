@@ -1,6 +1,6 @@
-# InfoOps: Cybersecurity Collaboration & CTF Excellence  
+# RaptX: Cybersecurity Collaboration & CTF Excellence  
 
-**InfoOps is a community of hackers, learners, and pros pushing boundaries in cybersecurity.**  
+**RaptX is a community of hackers, learners, and pros pushing boundaries in cybersecurity.**  
 We compete in Capture the Flag (CTF) challenges, tackle real-world security scenarios, and grow as a team. If you're passionate about learning, competing, and making an impact, join us.
 
 ---
