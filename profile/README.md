@@ -18,7 +18,7 @@ We compete in Capture the Flag (CTF) challenges, tackle real-world security scen
 
 ---
 
-## 🔑 Why InfoOps?  
+## 🔑 Why RaptX?  
 
 - **Collaborate with Experts**:  
   Learn from experienced members and share your own knowledge.  
