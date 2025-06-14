@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="raptx.png" alt="RaptX Banner" width="250px" />
+  <img src="raptx.png" alt="RaptX Banner" width="350px" />
 </p>
 
 <h1 align="center">
