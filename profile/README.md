@@ -7,10 +7,10 @@
 </h1>
 
 <p align="center">
-  <strong>Elite Offensive Security Team</strong><br/>
-  <img src="https://img.shields.io/badge/Founded-2023-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/CTFtime-Ranked%20%2337-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/HackTheBox-Top%2030-brightgreen?style=flat-square" />
+  <strong>Elite Security Team</strong><br/>
+  <img src="https://img.shields.io/badge/Founded-2024-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/CTFtime-Ranked%20%2350-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/HackTheBox-Top%2050-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Members-Cybersecurity%20Einthusiasts-informational?style=flat-square" />
 </p>
 
