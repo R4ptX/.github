@@ -20,6 +20,7 @@
 
 We believe in a strong team culture rooted in trust, mastery, and drive. Every member brings something unique, and together we push the boundaries of cybersecurity.
 
+
 ## 🌟 What We Do
 
 At our core, we’re a **community of learners and builders**. We grow together through:
@@ -33,6 +34,7 @@ At our core, we’re a **community of learners and builders**. We grow together 
 
 **Stay sharp, stay fast, stay dangerous — together.**
 
+
 ## 🧠 Our Values
 
 - **Tight-Knit Culture** — Low ego, high signal. We win as a team.
@@ -40,11 +42,13 @@ At our core, we’re a **community of learners and builders**. We grow together 
 - **Growth Obsessed** — Learn fast, fail smart, and constantly improve.
 - **Ethics First** — All operations are guided by strong ethical principles.
 
+
 ## 📫 Reach Out
 
 Have a project in mind, questions, or just want to connect?
 
 Reach out to us at: [contact@raptx.org](mailto:contact@raptx.org)
+
 
 ## 🔥 More about us
 
