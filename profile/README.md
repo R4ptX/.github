@@ -9,7 +9,7 @@
 <p align="center">
   <strong>Elite Security Team</strong><br/>
   <img src="https://img.shields.io/badge/Founded-2024-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/CTFtime-Ranked%20%2350-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/CTFtime-Top%2050-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/HackTheBox-Top%2050-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Members-Cybersecurity%20Einthusiasts-informational?style=flat-square" />
 </p>
