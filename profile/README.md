@@ -60,6 +60,8 @@ Reach out to us at: [contact@raptx.org](mailto:contact@raptx.org)
 
 - CTFtime: [RaptX](https://ctftime.org/team/357584)
 - HackTheBox: [RaptX](https://app.hackthebox.com/teams/overview/6565)
+- LinkedIn: [RaptX](https://www.linkedin.com/company/raptx/)
+- X (Twitter): [RaptX](https://x.com/raptxsec/)
 - Website: [raptx.org](https://raptx.org/#)
 
 ---
