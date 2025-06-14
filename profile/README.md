@@ -24,7 +24,7 @@ We believe in a strong team culture rooted in trust, mastery, and drive. Every m
 
 ### 🌟 What We Do
 
-At our core, we’re a **community of learners and builders**. We grow together through:
+At our core, we’re a **team of learners and builders**. We grow together through:
 
 - Competing in CTFs alongside the world’s best.
 - Developing custom tools for penetration testing and vulnerability research.
