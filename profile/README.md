@@ -14,15 +14,11 @@
   <img src="https://img.shields.io/badge/Members-Cybersecurity%20Enthusiasts-informational?style=flat-square" />
 </p>
 
----
-
 ## 🧬 Who We Are
 
 **RaptX** is a high-performance cybersecurity team composed of cybersecurity professionals, ethical hackers, CTF players, and enthusiastic beginners. We're a global community where individuals grow together — through competition, collaboration, and continuous learning.
 
 We believe in a strong team culture rooted in trust, mastery, and drive. Every member brings something unique, and together we push the boundaries of cybersecurity.
-
----
 
 ## 🌟 What We Do
 
@@ -37,8 +33,6 @@ At our core, we’re a **community of learners and builders**. We grow together 
 
 **Stay sharp, stay fast, stay dangerous — together.**
 
----
-
 ## 🧠 Our Values
 
 - **Tight-Knit Culture** — Low ego, high signal. We win as a team.
@@ -46,15 +40,11 @@ At our core, we’re a **community of learners and builders**. We grow together 
 - **Growth Obsessed** — Learn fast, fail smart, and constantly improve.
 - **Ethics First** — All operations are guided by strong ethical principles.
 
----
-
 ## 📫 Reach Out
 
 Have a project in mind, questions, or just want to connect?
 
 Reach out to us at: [contact@raptx.org](mailto:contact@raptx.org)
-
----
 
 ## 🔥 More about us
 
